@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **System design, Web3**
 
-- 🌐 Portfolio [http://arxxv.me](http://arxxv.me)
-
 - 💬 Ask me about **Node.js, Python**
 
 - 📫 How to reach me **arnavshindolkar0@gmail.com**
