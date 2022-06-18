@@ -11,16 +11,16 @@
 
 - 📫 How to reach me **arnavshindolkar0@gmail.com**
 
-- 🌐 Portfolio: [arxxv.me](http://arxxv.me)
+- 🌐 Portfolio: <a href="http://arxxv.me" target="_blank">arxxv.me</a>
 
-- 📄 Know about my experiences: [https://drive.google.com/file/d/1dgaQevCwZSKK2Nkvjp0PSoyGmgzSCAiv/view?usp=sharing](https://drive.google.com/file/d/1dgaQevCwZSKK2Nkvjp0PSoyGmgzSCAiv/view?usp=sharing)
+- 📄 Know about my experiences: <a href="https://drive.google.com/file/d/1pn10Yt8UJXsk8N9ZPxkGymbDq8T3xo6A/view?usp=sharing" target="_blank">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arnavshindolkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavshindolkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arnav-shindolkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-shindolkar" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/arxxv05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arxxv05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kewinmalone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kewinmalone" height="30" width="40" /></a>
+<a href="https://twitter.com/arnavshindolkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnavshindolkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arnav-shindolkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnav-shindolkar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arxxv05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arxxv05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kewinmalone" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kewinmalone" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
