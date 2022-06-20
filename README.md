@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **IIIT Guwahati**
 
-- 🌱 I’m currently learning **System design, Web3**
+- 🌱 I’m currently learning **Go**
 
 - 💬 Ask me about **Node.js, Python**
 
